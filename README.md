@@ -27,9 +27,7 @@ Not good for:
 
 ## 📦 Version compatibility
 
-| Godot 3.x | Godot 4.x |
-| --------- | --------- |
-| ❌        | ✔️       |
+Supports Godot 4.2.2 and above.
 
 ## 👩‍💻 Examples
 
