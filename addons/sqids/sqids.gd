@@ -1,3 +1,4 @@
+extends RefCounted
 class_name Sqids
 
 const DEFAULT_ALPHABET = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
